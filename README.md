@@ -12,7 +12,7 @@ This repository serves as a comprehensive collection of lab exercises from vario
 - **Software Testing**
   - [Foundations of Software Testing and Validation](#section2)
   - [Java Testing Specialization](#section3)
-- **Advanced Algorithms and Complexity**
+- [**Advanced Algorithms and Complexity**](#sectionAdvancedAlgorithmsAndComplexity)
 
 - **Machine Learning & AI**
 
@@ -88,3 +88,15 @@ This repository serves as a comprehensive collection of lab exercises from vario
   - ### [**Foundations of Software Testing and Validation**]()<div id="section2"></div>
   
   - ### [**Java Testing Specialization**]()<div id="section3"></div>
+
+- ## [**Advanced Algorithms and Complexity**]()<div id="sectionAdvancedAlgorithmsAndComplexity"></div>
+
+- ## [**Machine Learning & AI**]()<div id="sectionML&AI"></div>
+
+- ## [**Database Administration**]()<div id="sectionDatabaseAdministration"></div>
+
+- ## [**Data Warehouse**]()<div id="sectionDataWarehouse"></div>
+
+- ## [**Project Management**]()<div id="sectionProjectManagement"></div>
+
+- ## [**Projects**]()<div id="sectionProjects"></div>
