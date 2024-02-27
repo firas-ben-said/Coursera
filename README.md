@@ -71,6 +71,8 @@ This repository serves as a comprehensive collection of lab exercises from vario
   - ### [React Basics](Web%20Technologies%20and%20Programming/React%20Basics/)<div id="sectionReactBasics"></div>
     - Week 1
       - [Your First Component/](Web%20Technologies%20and%20Programming/React%20Basics/Week%201/Your%20First%20Component/)
+    - Week 2
+      - [dynamic-events/](Web%20Technologies%20and%20Programming/React%20Basics/Week%202/dynamic-events)
   - ### [Advanced React](Web%20Technologies%20and%20Programming/Advanced%20React/)<div id="sectionAdvancedReact"></div>
 
   - ### [Building RESTful APIs with Node.js and Express](Web%20Technologies%20and%20Programming/Building%20RESTful%20APIs%20with%20Node.js%20and%20Express/)<div id="sectionBuildingRESTfulAPIswithNodejsandExpress"></div>
